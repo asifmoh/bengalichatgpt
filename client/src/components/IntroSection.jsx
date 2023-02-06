@@ -5,12 +5,11 @@ const IntroSection = () => {
   return (
     <div id="introsection">
       <h1>
-        Introducing Talkbot
-        <BotResponse response=" - The Ultimate AI Assistant" />
+      বাঙলাভাষায় কৃত্রিম বুদ্ধিমত্তা
+        <BotResponse response=" - আপনার শ্রেষ্ঠ সহকারী" />
       </h1>
       <h2>
-        A cutting-edge AI-powered app that provides instant answers to any
-        question you may have. With Talkbot, you'll never be left searching for
+      এটি একটি অত্যাধুনিক কৃত্রিম বুদ্ধিমত্তা চালিত অ্যাপ যা আপনার যেকোনো প্রশ্নের তাৎক্ষণিক উত্তর প্রদান করতে সর্বোচ্চ চেষ্টা করবে। With Talkbot, you'll never be left searching for
         answers again. Whether you need information for school or work, or just
         want to know the latest news, Talkbot has you covered.
       </h2>
